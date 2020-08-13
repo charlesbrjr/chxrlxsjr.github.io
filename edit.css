@@ -1,0 +1,26 @@
+body {
+    background-color: #b3d9ff;
+    font-family: monospace, 'Courier New', Courier;
+}
+
+h1 {
+    text-shadow: 1px 1px 0px #004d99;
+}
+
+h2 {
+    text-decoration: underline overline dotted #aa00ff;
+}
+
+hr {
+    border: 0;
+    border-top: medium double #004d99;
+    height: 1px;
+    overflow: visible;
+    padding: 0;
+    color: #004d99;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+}
